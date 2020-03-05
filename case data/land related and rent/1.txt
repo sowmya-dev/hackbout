@@ -1,0 +1,87 @@
+Dinesh Maheshwari, J.
+
+Introductory
+
+1. These appeals are essentially directed against the common order dated 01.08.2019 as passed by the National Company Law Appellate Tribunal, New Delhi1 in a batch of appeals preferred by various banks and financial institutions whereby, the Appellate Tribunal set aside the order dated 16.05.2018, passed by the Adjudicating Authority, the National Company Law 1 Hereinafter also referred to as ‘the Appellate Tribunal’ or ‘NCLAT’ Tribunal, Allahabad Bench2 on the application moved by the Interim Resolution Professional3 in the Corporate Insolvency Resolution Process4 concerning the Corporate Debtor Company viz., Jaypee Infratech Limited5 seeking avoidance of certain transactions, whereby the corporate debtor had mortgaged its properties as collateral securities for the loans and advances made by the lender banks and financial institutions to Jaiprakash Associates Limited 6, the holding company of JIL, as being preferential, undervalued and fraudulent, in terms of Sections 43, 45 and 66 of the Insolvency and Bankruptcy Code, 20167.
+
+1.1. It may be noticed at the outset that the batch of appeals decided by the impugned common order dated 01.08.2019 also comprised of two appeals filed by the lenders of JAL, being Comp. App (AT) (Ins) No. 353 of 2018 and Comp. App (AT) (Ins) No. 301 of 2018 that were preferred against the orders passed by NCLT on 09.05.2018 and 15.05.2018 respectively, whereby NCLT approved the decision of IRP rejecting the claims of such lenders of JAL to be recognized as financial creditors of the corporate debtor JIL on the strength of the mortgage created by the corporate debtor, as collateral security of the debt of its holding company JAL. These two appeals also came to be allowed as per the result recorded in the impugned order dated 01.08.2019, though the 2 Hereinafter also referred to as ‘the Tribunal’ or ‘NCLT’ or ‘the Adjudicating Authority’. 3 ‘IRP’ for short.
+
+4 ‘CIRP’ for short.
+
+5 ‘JIL’ for short; also referred to as ‘the corporate debtor’. 6 ‘JAL’ for short.
+
+7 Hereinafter also referred to as ‘the Code’ or ‘IBC’.
+
+entire discussion and the final conclusion therein had only been in relation to the order dated 16.05.2018 that was passed by NCLT on the application for avoidance filed by IRP. The appellant of Civil Appeal D. No. 32881 of 2019 8, IIFCL, apart from raising other contentions, has also questioned this aspect of the order impugned that the aforesaid two appeals, involving the question as to whether the lenders of JAL could be categorised as financial creditors of JIL for the purpose of IBC, have been allowed by NCLAT without recording any findings and without any discussion in that regard.
+
+Brief Outline and the Issues Involved
+
+2. Before proceeding further, we may draw up a brief outline of the subject- matter and the issues involved in these appeals.
+
+2.1. As shall be noticed hereafter later, the CIRP concerning the corporate debtor JIL has already undergone several rounds and circles of proceedings in NCLT, NCLAT and at least twice over in this Court.
+
+2.2. For what has been indicated in the introduction, it is evident that two major issues would arise in these appeals. One, as to whether the transactions in question deserve to be avoided as being preferential, undervalued and fraudulent, in terms of Sections 43, 45 and 66 of the Code; and second, as to whether the respondents (lender of JAL) could be recognized as financial creditors of the corporate debtor JIL on the strength of the mortgage created 8 Now numbered as Civil Appeal Nos. 009357-77 of 2019 by the corporate debtor, as collateral security of the debt of its holding company JAL.
+
+2.3. For a preliminary insight into the first issue, suffice would be to notice that during CIRP, the Interim Resolution Professional preferred an application before the Adjudicating Authority seeking orders for avoidance of the impugned transactions, whereby several parcels of land were put under mortgage with the lenders of JAL, the holding company of JIL. The contention of IRP, that the transactions in question were preferential, undervalued and fraudulent within the meaning of Sections 43, 45 and 66 of the Code, were accepted in part by the Adjudicating Authority, the NCLT, in its order dated 16.05.2018 and necessary directions were issued for avoidance of at least six of such transactions. In other words, in relation to such six transactions, the security interest was ordered to be discharged and the properties involved therein were vested in the corporate debtor, with release of encumbrances. The NCLAT, however, took an entirely opposite view of the matter and upturned the order so passed by NCLT, while holding that the transactions in question do not fall within the mischief of being preferential or undervalued or fraudulent; and that the lenders in question (the lenders of JAL) were entitled to exercise their rights under the Code. Aggrieved, the IRP, one of the creditors of the corporate debtor JIL and the associations of home buyers, who have invested in the proposed projects of JIL and JAL, have preferred these appeals.
+
+2.4. As regards the second issue, noticeable it is that during CIRP, two of the respondent banks namely, ICICI Bank Limited and Axis Bank Limited, sought inclusion in the category of financial creditors of JIL but IRP did not agree and declined to recognize them as such. Being aggrieved by the decisions so taken by IRP, the said banks preferred separate applications under Section 60(5) of the Code before NCLT while asserting their claim to be recognized as financial creditors of the corporate debtor JIL, on account of the securities provided by JIL for the facilities granted to JAL. The NCLT rejected the applications so filed by the said banks, by way of its orders dated 09.05.2018 and 15.05.2018 respectively, while concluding that on the strength of the mortgage created by the corporate debtor JIL, as collateral security of the debt of its holding company JAL, the lenders of JAL could not be categorised as financial creditors of JIL for the purpose of the Code. As already noticed, the appeals against the said orders dated 09.05.2018 and 15.05.2018 are purportedly allowed as per the result recorded in the impugned order dated 01.08.2019, but without any discussion in that regard. Aggrieved, one of the lenders of the corporate debtor JIL, IIFCL (appellant of Civil Appeal D. No. 32881 of 2019) has also questioned this aspect of the order impugned while asserting that such mortgagees cannot be taken as financial creditors of the corporate debtor JIL.
+
+Parties and their respective roles and interest in the matter
+
+3. In view of the issues arising for determination in these appeals, with several parties carrying different roles, status and interests, worthwhile it would be to narrate at the outset, in brief, the relevant particulars of the key parties involved as follows:
+
+3.1. Jaypee Infratech Limited (JIL):
+
+It is the corporate debtor company in whose relation CIRP is pending; and the mortgage transactions concerning its properties were questioned in the application filed by the Interim Resolution Professional. Such transactions form the subject-matter of these appeals.
+
+3.2. Jaiprakash Associates Limited (JAL):
+
+It is the holding company of JIL; it had approximately 71.64% equity shareholding in JIL as on 31.03.2017. The impugned mortgage transactions were entered into in favour of its lenders.
+
+3.3. Shri Anuj Jain:
+
+He is the Interim Resolution Professional in CIRP concerning JIL who moved the application for avoidance of the transactions in question. He is the appellant in Civil Appeal Nos. 8512-27 of 2019.
+
+3.4. Jaypee Greens Krescent Home Buyers Welfare Association; Jaypee Kasa Isles Welfare Association; Jaypee Kensington Boulevard Apartments Welfare Association; Garden Isle Welfare Association; Jaypee Klassic Apartment Welfare Association; Jaypee Kube Buyers Welfare Association; Wish Town Property Owners Welfare Society; KRH Buyers Association ABL Workplace:
+
+They are the associations of home buyers who have invested in the projects of JIL and JAL. They are the appellants in Civil Appeal Nos. 6777-97 of 2019; and they also support the assertion of IRP that the transactions in question cannot be countenanced.
+
+3.5 India Infrastructure Finance Company Limited:
+
+It is the financial creditor of the corporate debtor JIL and has filed Civil Appeal in Diary No. 32881 of 2019 while asserting that the transactions in question need to be avoided; and that the lenders of JAL related with such transactions cannot be the financial creditors of JIL for the purpose of CIRP in question.
+
+3.6 Axis Bank Limited; Standard Chartered Bank Limited; ICICI Bank Limited; State Bank of India; United Bank of India; UCO Bank; The Karur Vyasa Bank (P) Limited; L&T Infrastructure Finance Company Limited; Central Bank of India; Canara Bank; Karnataka Bank Limited; IFCI Limited; Allahabad Bank; Jammu & Kashmir Bank; South Indian Bank Limited; Bank of Maharashtra and other banks and financial institutions:
+
+They are the lenders of JAL in whose favour the properties of JIL were put under mortgage by way of the impugned transactions. They oppose the assertions of appellants while maintaining that the transactions in question are not avoidable and are valid, investing them with the capacity of financial creditors of JIL. They are the principal contesting respondents in these appeals.
+
+The transactions in question
+
+4. Having taken note of the principal contesting parties and their respective interests, it would also be worthwhile to take note of the relevant particulars of the properties and the transactions involved in this dispute. It may be usefully noticed that out of seven transactions that were questioned by IRP, the Adjudicating Authority held that six of them were preferential, undervalued and fraudulent and passed the orders for their avoidance while accepting the contentions of IRP. It may also be observed that five out of these six transactions were preceded by previous mortgage transactions for securing the loans/facilities to JAL. The transactions in question, with previous transactions and flow thereof, as given out during the course of submissions, could be comprehensively viewed as under: -
+
+4.1. The transactions in favour of the Consortium of Banks and Financial Institutions:
+
+Property/transaction in question Previous transaction/s and flow thereof Mortgage deed dated 29.12.2016 for Initial mortgage deed dated 167.229 acres of land situated at Village 24.02.2015 released on 15.09.2015 Chhalesar and Chaugan, Tehsil and re-mortgaged on 15.09.2015 Etmadpur, District Agra, Uttar Pradesh (changing facility amount from Rs.
+
+executed by JIL in favour of Axis Trustee                3250 crores (appx.) to Rs. 24109
+Services Ltd. to provide an additional                   crores);  thereafter  released    on
+security for term loans of Rs. 21081.5                   29.12.2016 and again re-mortgaged
+crores sanctioned as a consortium to                     on 29.12.2016 (changing facility
+JAL.9                                                    amount from Rs. 24109 crores to Rs.
+                                                         23491 crores).
+
+9 Hereinafter also referred to as ‘Property No. 1’
+
+
+
+
+Mortgage deed dated 29.12.2016 for                        Initial  mortgage     deed     dated
+167.9615 acres of land situated at                        24.02.2015 released on 15.09.2015
+Village Tappal, Kansera and Jahangarh,                    and re-mortgaged on 15.09.2015
+Tehsil Khair, District Aligarh, Uttar                     (changing facility amount from Rs.
+Pradesh executed by JIL in favour of                      3250 crores (appx.) to Rs. 24109
+Axis Trustee Services Ltd. to provide as                  crores);  thereafter  released    on
+an additional security for term loans of                  29.12.2016 and again re-mortgaged
+Rs.21081.5 crores sanctioned by the                       on 29.12.2016 (changing facility
+consortium to JAL.10                                      amount from Rs. 24109 crores to Rs.
+                                                          23491 crores).
+

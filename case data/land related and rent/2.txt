@@ -1,0 +1,109 @@
+
+                                                   JUDGMENT
+R.F. Nariman, J.
+
+1. This appeal raises a question as to the correct interpretation of Section 14(1)(d) of the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as “the Code”). The facts necessary to appreciate the setting in which this question arises are as follows:
+
+i. On 01.11.2007, a Resolution bearing No.6280 was passed by the Maharashtra Housing and Area Development Authority (hereinafter referred to as ‘the MHADA’) to execute a joint development agreement with the Corporate Debtor, i.e. Guru Ashish Construction Private Limited, and Goregaon Signature Not Verified Digitally signed by SUSHMA KUMARI Siddharth Nagar Sahakar Griha Nirman Sanstha Limited (a BAJAJ Date: 2020.02.26 11:26:33 IST Reason:
+Society for persons who are displaced and who are to be re-
+housed in the project for joint development of land, ad-
+ measuring about 40 acres), which envisaged re-development insofar as 672 tenements in Siddharth Nagar, Goregaon, Mumbai were concerned.
+
+ii. On 03.03.2008, the Maharashtra State Government granted its approval to the aforesaid Resolution.
+
+iii. On 10.04.2008, a Tripartite Joint Development Agreement (hereinafter referred to as the “Joint Development Agreement”) was entered into between the Society representing persons occupying 672 tenements, MHADA and the Corporate Debtor.
+
+iv. On 25.03.2011, a Loan Agreement was entered into and executed between the Union Bank of India and the Corporate Debtor for a sum of Rs. 200 Crores.
+
+v. On 09.11.2011, a Deed of Modification was entered into between the three parties to the Joint Development Agreement, as after carrying out the survey of the land in question, it was found that certain parcels of land, which were identified with certain city survey numbers, were omitted, as a result of which they were also added, now making the project for a total of 47 acres of land.
+
+vi. As a result of the Corporate Debtor defaulting in repayment of the loan to its financial creditor, namely, the Union Bank of  India, an Insolvency Application under Section 7 of the Code, which was filed on 15.05.2017, was admitted on 24.07.2017, appointing an Interim Resolution Professional (i.e. the Appellant before us). A moratorium in terms of Section 14 was also declared by this order.
+
+vii. On 12.01.2018 - after the imposition of the moratorium period under Section 14 of the Code - MHADA issued a termination notice to the Corporate Debtor stating that upon expiry of 30 days from the date of receipt of the notice, the Joint Development Agreement as modified would stand terminated. It was further stated that the Corporate Debtor would have to handover possession to MHADA, which would then enter upon the plot and take possession of the land including all structures thereon.
+
+viii. One hundred and eighty days from the start of the Corporate Insolvency Resolution Process (hereinafter referred to as “the CIRP”) expired on 19.01.2018. The NCLT, by order dated 24.01.2018, extended the CIRP period by ninety days, as is permissible under the Code.
+
+ix. On 01.02.2018, the Appellant filed M.A. No. 96 of 2018, seeking a direction from the NCLT to restrain MHADA from taking over possession of the land till completion of the CIRP,  contending that such a recovery of possession was in derogation of the moratorium imposed under Section 14 of the Code. The NCLT, by order dated 02.04.2018, dismissed the aforesaid application, stating that Section 14(1)(d) of the Code does not cover licenses to enter upon land in pursuance of Joint Development Agreements, stating that such licenses would only be ‘personal’ and not interests created in property. An appeal against this order was preferred to the NCLAT.
+
+x. Meanwhile, in a parallel proceeding, on 18.04.2018, the amount of time taken by the NCLT in deciding the application under Section 7 under the Code, being 55 days, was sought to be omitted from the total number of days allowable under the Code. This application was partially granted, excluding 38 out of 55 days. An appeal to the NCLAT proved successful, whereby the NCLAT, by order dated 09.05.2018, allowed the appeal and allowed the entire 55 days so taken before the NCLT to be excluded.
+
+xi. On 03.07.2018, the Appellant filed an approved Resolution Plan before the NCLT, Mumbai by way of I.A. No.21433 of 2018. We are informed that this was within the extended period of 55 days so granted by the NCLAT. It may only be  mentioned that the Resolution Plan was approved by 86.16% of the Committee of Creditors. Ultimately, the NCLAT, by the impugned order dated 14.12.2018, (after omitting to refer to the order dated 09.05.2018), stated that 270 days are over, as a result of which the entire discussion of Section 14(1)(d) would now become academic. However, it also decided:
+
+“14. On perusal of record, we find that pursuant to the ‘Joint Development Agreement’ the land of the ‘Maharashtra Housing and Area Development Authority’ was handed over to the ‘Corporate Debtor’ and ‘except for development work’ the ‘Corporate Debtor’ has not accrued any right over the land in question. The land belongs to the ‘Maharashtra Housing and Area Development Authority’ which has not formally transferred it in favour of the ‘Corporate Debtor’. Hence, it cannot be treated to be the asset of the ‘Corporate Debtor’ for application of provisions of Section 14(1)(d) of the ‘I&B Code’.”
+2. Mr. Dhruv Mehta, learned Senior Advocate appearing for the Appellant, has taken us through the Joint Development Agreement together with the Deed of Modification in great detail. His first submission is that it would be wholly incorrect to state that a mere ‘license to enter’ had been granted. According to him, if these two documents were read as a whole, it is clear that legal possession was actually handed over to him in order to do three things: (1) construct tenements which were to be handed over to MHADA free of cost; (2) construct tenements in which the 672 occupiers of the erstwhile tenements were to be housed; and (3) thereafter recoup costs and make profit by sale of what was called the ‘free sale component’ that would be left over. Apart from the above, he went through the NCLT order dated 02.04.2018 in great detail, and stated that there is a conceptual confusion in the said order, inasmuch as Section 14(1)(b) of the Code was not the subject-matter of consideration, in which case it would have been necessary to see other sections dealing with “assets” that pertain to the Corporate Debtor, such as Sections 18 and 36 of the Code. If Section 14(1)(d), on the other hand, were to be seen, it does not mention the expression “assets” at all but only refers to “property”, which according to Mr. Mehta was defined extremely widely. He argued that, in any event, on the plain language of Section 14(1)(d), it was not necessary for him to make out any case as to legal possession having been handed over to him, as the expression used by Section 14(1)(d) and applied to the facts of his case is ‘… is occupied by’.
+
+He argued that applying the latin maxim reddendo singula singulis, it is clear that any recovery of a property by an owner where such property is ‘occupied by’ the Corporate Debtor would clearly fall within Section 14(1)(d), the expression “...or in the possession of” going with the expression “lessor” and not “owner”. This being the case, he contended that it is clear that when two expressions of different import are used within the same sub-section, they are meant to mean different things. The expression ‘occupied’ would have to be confined to physical occupation or use, and not to legal possession, which is a separate concept in law. He cited a number of authorities to buttress his arguments.
+
+3. Mr. Dushyant Dave, learned Senior Advocate appearing on behalf of MHADA, painstakingly took us through the various provisions of the Maharashtra Housing and Area Development Act, 1976 (hereinafter referred to as the “MHADA Act”). He relied, in particular, upon the various clauses in the preamble and then referred to Sections 4, 5, 37, 66 and 74 and relied strongly upon Sections 76 and 79 of the MHADA Act to argue that joint development schemes that the Authorities concerned enter into with the builders must first be with the previous approval of the Authority, and such schemes have to be executed under the supervision of the Authority. This being the case, according to him, there is no question of any possession or occupation being handed over and, as a result, Section 14(1)(d) of the Code would not apply. He also strongly relied upon a recent judgment by my brother S. Ravindra Bhat, J. in Municipal Corporation of Greater Mumbai (MCGM) vs. Abhilash Lal & Ors. (Civil Appeal No. 6350 of 2019), to buttress his proposition that Section 238 of the Code, which contains a non-
+
+obstante clause getting out of harm’s way other statutes, cannot be extended beyond the provisions of the Code. He exhorted us to give full play to the MHADA Act, and if that were done it is obvious that any clash between the MHADA Act and the Insolvency Code would then have to be resolved, at least on the facts of this case, in favour of MHADA. He also referred to a Bombay High Court order dated 05.04.2018, in which it was stated that MHADA had taken symbolic possession on 05.04.2018.
+
+4. Mr. Basava Prabhu Patil, learned Senior Advocate appearing on behalf of some of the homebuyers, also referred to and relied upon the judgment of my brother S. Ravindra Bhat, J. Both Mr. Dave and Mr. Patil referred to and relied upon a recent judgment of this Court in Sushil Kumar Agarwal vs. Meenakshi Sadhu and Others (2019) 2 SCC 241 in which, in the context of specific performance, development agreements were categorized into three types, and it was stated that where interests in property were not created by any category, such agreements could not be specifically performed.
+
+5. Having heard the learned senior counsel appearing for all the parties, it is necessary to first set out some of the provisions of the Code. Section 3(27) reads as follows:
+
+“3. Definitions. In this Code, unless the context otherwise requires,— xxx xxx xxx  (27) “property” includes money, goods, actionable claims, land and every description of property situated in India or outside India and every description of interest including present or future or vested or contingent interest arising out of, or incidental to, property;” Section 14 is set out as follows:
+“14. Moratorium.
+(1) Subject to provisions of sub-sections (2) and (3), on the insolvency commencement date, the Adjudicating Authority shall by order declare moratorium for prohibiting all of the following, namely:—
+(a) the institution of suits or continuation of pending suits or proceedings against the corporate debtor including execution of any judgment, decree or order in any court of law, tribunal, arbitration panel or other authority;
+(b) transferring, encumbering, alienating or disposing of by the corporate debtor any of its assets or any legal right or beneficial interest therein;
+(c) any action to foreclose, recover or enforce any security interest created by the corporate debtor in respect of its property including any action under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002);
+(d) the recovery of any property by an owner or lessor where such property is occupied by or in the possession of the corporate debtor.
+(2) The supply of essential goods or services to the corporate debtor as may be specified shall not be terminated or suspended or interrupted during moratorium period.
+(3) The provisions of sub-section (1) shall not apply to—
+(a) such transaction as may be notified by the Central Government in consultation with any financial regulator;
+(b) a surety in a contract of guarantee to a corporate  debtor.
+(4) The order of moratorium shall have effect from the date of such order till the completion of the corporate insolvency resolution process:
+Provided that where at any time during the corporate insolvency resolution process period, if the Adjudicating Authority approves the resolution plan under sub-section (1) of section 31 or passes an order for liquidation of corporate debtor under section 33, the moratorium shall cease to have effect from the date of such approval or liquidation order, as the case may be.” (emphasis supplied) Section 18, on which great reliance is placed, is also set out hereunder:
+
+“18. Duties of interim resolution professional. (1) The interim resolution professional shall perform the following duties, namely:—
+(a) collect all information relating to the assets, finances and operations of the corporate debtor for determining the financial position of the corporate debtor, including information relating to—
+(i) business operations for the previous two years;
+(ii) financial and operational payments for the previous two years;
+(iii) list of assets and liabilities as on the initiation date; and
+(iv) such other matters as may be specified;
+(b) receive and collate all the claims submitted by creditors to him, pursuant to the public announcement made under sections 13 and 15;
+(c) constitute a committee of creditors;
+(d) monitor the assets of the corporate debtor and manage its operations until a resolution professional is appointed by the committee of creditors;
+(e) file information collected with the information  utility, if necessary; and
+
+(f) take control and custody of any asset over which the corporate debtor has ownership rights as recorded in the balance sheet of the corporate debtor, or with information utility or the depository of securities or any other registry that records the ownership of assets including—
+
+(i) assets over which the corporate debtor has ownership rights which may be located in a foreign country;
+
+(ii) assets that may or may not be in possession of the corporate debtor;
+
+(iii) tangible assets, whether movable or immovable;
+
+(iv) intangible assets including intellectual property;
+
+(v) securities including shares held in any subsidiary of the corporate debtor, financial instruments, insurance policies;
+
+(vi) assets subject to the determination of ownership by a court or authority;
+
+(g) to perform such other duties as may be specified by the Board.
+
+Explanation.—For the purposes of this section, the term "assets" shall not include the following, namely: —
+
+(a) assets owned by a third party in possession of the corporate debtor held under trust or under contractual arrangements including bailment;
+
+(b) assets of any Indian or foreign subsidiary of the corporate debtor; and
+
+(c) such other assets as may be notified by the Central Government in consultation with any financial sector regulator.” Section 31 which indicates the period of moratorium is also important and is set out as follows:
+
+“31. Approval of resolution plan.
+(1) If the Adjudicating Authority is satisfied that the resolution plan as approved by the committee of creditors under sub-section (4) of section 30 meets the requirements as referred to in sub-section (2) of section 30, it shall by order approve the resolution plan which shall be binding on the corporate debtor and its employees, members, creditors, including the Central Government, any State Government or any local authority to whom a debt in respect of the payment of dues arising under any law for the time being in force, such as authorities to whom statutory dues are owed, guarantors and other stakeholders involved in the resolution plan:
+
+Provided that the Adjudicating Authority shall, before passing an order for approval of resolution plan under this sub-section, satisfy that the resolution plan has provisions for its effective implementation. (2) Where the Adjudicating Authority is satisfied that the resolution plan does not confirm to the requirements referred to in sub-section (1), it may, by an order, reject the resolution plan.
+
+(3) After the order of approval under sub-section (1),-
+
+(a) the moratorium order passed by the Adjudicating Authority under section 14 shall cease to have effect; and
+
+(b) the resolution professional shall forward all records relating to the conduct of the corporate insolvency resolution process and the resolution plan to the Board to be recorded on its database. (4) The resolution applicant shall, pursuant to the resolution plan approved under sub-section (1), obtain the necessary approval required under any law for the time being in force within a period of one year from the date of approval of the resolution plan by the Adjudicating Authority under sub-section (1) or within such period as provided for in such law, whichever is later:
+
+Provided that where the resolution plan contains a provision for combination, as referred to in section 5 of the Competition Act, 2002 (12 of 2003), the resolution applicant shall obtain the approval of the Competition Commission of India under that Act prior to the approval of such resolution plan by the committee of creditors.” Section 36(4) which is also relied upon, particularly by the NCLT judgment, is set out as follows:
+
+“36. Liquidation estate.
+(4) The following shall not be included in the liquidation estate assets and shall not be used for recovery in the liquidation:—
+(a) assets owned by a third party whic
