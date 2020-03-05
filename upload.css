@@ -1,0 +1,17 @@
+.upload{
+  margin-top: 200px;
+  margin-left: 500px;
+  background-color: #0fffff;
+  display: block;
+  width:700px;
+  height: 400px;
+  align-content: center;
+  padding-left: 70px;
+  padding-top: 40px;
+  align-content: center;
+}
+#byte_content{
+
+  width:100px;
+
+}
